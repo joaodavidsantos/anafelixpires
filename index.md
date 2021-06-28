@@ -17,9 +17,9 @@ A Ana era professora e feminista. Os alunos e alunas eram parte integrante da su
 
 A Ana apoiava a União Zoófila sempre que tinha oportunidade. Caso partilhem da vontade que a Ana tinha de apoiar a causa animal, ponderem fazer um donativo a esta ou outra associação em memória da Ana Félix Pires. 
 
-* Donativo monetário por MBWay: 934 606 853 (com indicação dos dados a constar no recibo)
-* Donativo monetário por PayPal: [PayPal - União Zoófila](https://www.paypal.com/paypalme/uniaozoofila/)
-* [Todas as formas de ajudar a União Zoófila](http://www.uniaozoofila.org/ajudar/)
+* Donativo monetário à União Zoófila por MBWay: 934 606 853 (com indicação dos dados a constar no recibo)
+* Donativo monetário à União Zoófila por PayPal: [PayPal - União Zoófila](https://www.paypal.com/paypalme/uniaozoofila/)
+* [Todas as formas de ajudar a União Zoófila](http://www.uniaozoofila.org/ajudar/) (onde também constam os dois métodos acima)
 
 
 `Actualizado a 28 Julho 2021`
