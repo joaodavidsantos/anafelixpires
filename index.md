@@ -14,7 +14,7 @@ A Ana faleceu no passado fevereiro depois de quase 2 anos de luta contra um canc
 
 Esta doença ataca com mais força mulheres mais jovens. Façam as apalpações e exames necessários, informem-se sobre a doença e partilhem com outras jovens mulheres. Todo o tempo conta.
 
-Tantos lugares onde queriamos ir antes da Ana partir, mas a pandemia e o avançar rápido da doença não o permitiram. Aproveitem os bons momentos, façam e guardem memórias.
+Tantos lugares onde gostariamos de ter ido juntos antes da Ana partir, mas a pandemia e o avançar rápido da doença não o permitiram. Aproveitem os bons momentos, façam e guardem memórias.
 
 A Ana era professora e feminista. Os alunos e alunas eram parte integrante da sua vida e objectivos. Ensinar, estimular a vontade de aprender, e fomentar um mundo mais justo moviam-na diariamente. 
 
