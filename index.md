@@ -22,6 +22,7 @@ A Ana apoiava a União Zoófila sempre que tinha oportunidade. Caso partilhem da
 * Donativo monetário à União Zoófila por PayPal: [PayPal - União Zoófila](https://www.paypal.com/paypalme/uniaozoofila/)
 * [Todas as formas de ajudar a União Zoófila](http://www.uniaozoofila.org/ajudar/)  
   (onde também constam os dois métodos acima)
-
-
-`Actualizado a 28 Julho 2021`
+  
+  
+  
+  `Actualizado a 28 Julho 2021`
