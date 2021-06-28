@@ -3,6 +3,8 @@ title: "Ana Cristina Félix Pires"
 description: "28/06/1989 - 05/02/2021"
 ---
 
+![Foto de Ana Félix Pires](./images/ana.png)
+
 Festejar o teu aniversário era uma alegria para nós, e a melhor e única altura do ano para te surpreender, pois o resto do ano eras tu que nos fazias festas, nos oferecias prendas, e estavas connosco. Estar connosco. Tão simples, mas que tanto nos faz falta. Os teus risos e gargalhadas. Os teus revirar de olhos às piadas parvas. O teu sorrir. Os teus sonhos, pelos quais lutavas, e que tantos ficaram por cumprir. Meu deus como temos tantas saudades tuas. Como nos fazes falta.
 
 ——
