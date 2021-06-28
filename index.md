@@ -1,6 +1,7 @@
 ---
 title: "Ana Cristina Félix Pires"
 description: "28/06/1989 - 05/02/2021"
+image: ./images/ana.png
 ---
 
 ![Foto de Ana Félix Pires](./images/ana.png)
