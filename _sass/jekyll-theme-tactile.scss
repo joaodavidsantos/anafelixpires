@@ -20,7 +20,7 @@ time, mark, audio, video {
 	padding: 0;
 	margin: 0;
 	font: inherit;
-	font-size: 120%;
+	font-size: 100%;
 	vertical-align: baseline;
 	border: 0;
 }
@@ -90,6 +90,7 @@ header h2 {
 }
 
 #container {
+  font-size: 1.2em;
   min-height: 595px;
   background: transparent url(../images/highlight-bg.jpg) 50% 0 no-repeat;
 }
